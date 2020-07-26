@@ -7,4 +7,4 @@
 
 知识点：卷积神经网络、剪枝、量化、HLS程序设计和优化、SD卡读写和HDMI显示的vivado设计流程
 
-![image](https://github.com/silverfly1992/pynq-skynet/blob/master/images/2020Xilinx项目框图.JPG)
+![image](https://github.com/silverfly1992/pynq-skynet/blob/master/images/2020Xilinx.JPG)
