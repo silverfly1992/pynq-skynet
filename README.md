@@ -6,3 +6,5 @@
 技术方案：参考今年DAC比赛亚军SkrSkr团队的设计，将skynet部署到pynq-z2的pl上，对于明显的资源限制，我们将压缩算法的并行度，做更激进的剪枝量化操作，在资源、速度和精度间进行仔细权衡。
 
 知识点：卷积神经网络、剪枝、量化、HLS程序设计和优化、SD卡读写和HDMI显示的vivado设计流程
+
+https://github.com/silverfly1992/pynq-skynet/blob/master/2020hls%E9%A1%B9%E7%9B%AE%E6%A1%86%E5%9B%BE.vsdx
